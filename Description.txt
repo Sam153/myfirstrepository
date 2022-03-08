@@ -1,2 +1,6 @@
 Hello, welcome to my repository.
 I'm learning git.
+This is editing the file.
+
+
+Thank you.
